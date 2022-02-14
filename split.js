@@ -13,3 +13,11 @@ console.log(substr1);
 //substring
 let subString = string.substring(5,10)
 console.log(subString);
+
+//concat
+
+let a = 'asaf'
+let b = 'sduj'
+
+let c = a.concat(b).concat('sdsd')
+console.log(c);
