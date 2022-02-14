@@ -9,3 +9,7 @@ console.log(slice);
 //substr
 let substr1 = string.substr(5,5)
 console.log(substr1);
+
+//substring
+let subString = string.substring(5,10)
+console.log(subString);
