@@ -21,3 +21,8 @@ let b = 'sduj'
 
 let c = a.concat(b).concat('sdsd')
 console.log(c);
+
+//join
+
+let join = str.join(' ')
+console.log(join);
