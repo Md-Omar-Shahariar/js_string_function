@@ -26,3 +26,10 @@ console.log(c);
 
 let join = str.join(' ')
 console.log(join);
+
+
+console.log(Date.now());
+
+const array = ["121", "12", "1", "112", "111"];
+
+console.log(array.sort());
